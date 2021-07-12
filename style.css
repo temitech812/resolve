@@ -9,7 +9,7 @@ html, body{
 }
 @media  screen and (width: 600px) and (min-height: 900px){
     #col-container{
-        background-image: url('image8.png');
+        background-image: url('image8.jpeg');
         margin-top: 0px;
         height: 100%;
         margin-left: 0px;
@@ -18,7 +18,7 @@ html, body{
         overflow: auto;
     }
     #col-box{
-        background-image: url('image8.png');
+        background-image: url('image8.jpeg');
         margin-top: 40px;
         margin-left: 10px;
         margin-right: 10px;
