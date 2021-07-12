@@ -18,4 +18,4 @@ document.getElementById('lower').addEventListener('click', function myFunction()
     var newValue = value - 1
     document.getElementById('value').innerHTML = newValue
     }
-})
+} )
